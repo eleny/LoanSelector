@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:13:46 +0300] "GET /LoanSelector HTTP/1.1" 200 63 http-bio-8080-exec-2 2733
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:15:32 +0300] "GET /LoanSelector HTTP/1.1" 200 64 http-bio-8080-exec-2 2527
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:15:37 +0300] "GET /LoanSelector HTTP/1.1" 200 64 http-bio-8080-exec-5 2
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:15:49 +0300] "GET /LoanSelector/index.jsp HTTP/1.1" 200 139 http-bio-8080-exec-8 334
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:15:52 +0300] "GET /LoanSelector/SortServlet? HTTP/1.1" 404 999 http-bio-8080-exec-10 8
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:17:59 +0300] "GET /LoanSelector/SortServlet? HTTP/1.1" 404 999 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [01/Aug/2018:16:18:04 +0300] "GET /LoanSelector HTTP/1.1" 200 64 http-bio-8080-exec-8 2
